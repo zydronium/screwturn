@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnBulkMigrateResource1.Text" xml:space="preserve">
-    <value>Bulk Migrate</value>
+    <value>Migrer en lot</value>
   </data>
   <data name="btnBulkMigrateResource1.ToolTip" xml:space="preserve">
-    <value>Migrate many Pages to another namespace</value>
+    <value>Migrer plusieurs pages dans un autre espace de nom</value>
   </data>
   <data name="btnBulkMigrateBackResource1.Text" xml:space="preserve">
     <value>Retour</value>
@@ -157,7 +157,7 @@
     <value>3. Effectuer la migration</value>
   </data>
   <data name="rfvBulkMigrateTargetNamespaceResource1.ErrorMessage" xml:space="preserve">
-    <value>Target Namespace is required</value>
+    <value>Espace de nom cible requis</value>
   </data>
   <data name="btnMigrateResource1.Text" xml:space="preserve">
     <value>Migrer</value>
@@ -193,7 +193,7 @@
     <value />
   </data>
   <data name="txtFilterResource1.ToolTip" xml:space="preserve">
-    <value>Filter Pages by name</value>
+    <value>Filtrer par nom</value>
   </data>
   <data name="btnApproveResource1.Text" xml:space="preserve">
     <value>Approuver</value>
@@ -268,7 +268,7 @@
     <value>Gérer les permissions pour cette page</value>
   </data>
   <data name="btnPublicResource1.Text" xml:space="preserve">
-    <value>Public</value>
+    <value>Publique</value>
   </data>
   <data name="btnPublicResource1.ToolTip" xml:space="preserve">
     <value>Utiliser ce gabarit</value>
@@ -286,7 +286,7 @@
     <value>Renommer cette page</value>
   </data>
   <data name="btnRollbackResource1.Text" xml:space="preserve">
-    <value>Rollback</value>
+    <value>Revenir en arrière</value>
   </data>
   <data name="btnRollbackResource1.ToolTip" xml:space="preserve">
     <value>Rollback de cette page</value>
@@ -454,7 +454,7 @@
     <value>Révision cible</value>
   </data>
   <data name="lblRevisionsResource1.Text" xml:space="preserve">
-    <value>Rev.</value>
+    <value>Rév.</value>
   </data>
   <data name="lblRollbackPageTitleResource1.Text" xml:space="preserve">
     <value>Rollback de la page</value>
@@ -550,19 +550,19 @@
     <value />
   </data>
   <data name="rdoAllBackupsResource1.Text" xml:space="preserve">
-    <value>Delete all Backups</value>
+    <value>Supprimer toutes les sauvegardes</value>
   </data>
   <data name="rdoAllBackupsResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="rdoUpToResource1.Text" xml:space="preserve">
-    <value>Delete Backups older than and including</value>
+    <value>Supprimer les sauvegardes datant de plus que et incluant</value>
   </data>
   <data name="rdoUpToResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="rfvNewNameResource1.ErrorMessage" xml:space="preserve">
-    <value>New Name is required</value>
+    <value>Nouveau nom requis</value>
   </data>
   <data name="rfvNewNameResource1.Text" xml:space="preserve">
     <value />

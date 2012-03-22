@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblUsernameRegExResource2.Text" xml:space="preserve">
-    <value>Regular Expression for validating usernames and group names</value>
+    <value>Expression régulière de validation pour les noms d'utilisateur et de groupes</value>
   </data>
   <data name="lblPasswordRegExResource2.Text" xml:space="preserve">
-    <value>Regular Expression for validating passwords</value>
+    <value>Expression régulière pour valider les mots de passe</value>
   </data>
   <data name="chkEnableSectionAnchorsResource1.Text" xml:space="preserve">
     <value>Afficher les ancres pour les sections de la page</value>
@@ -1078,15 +1078,15 @@
     <value />
   </data>
   <data name="lblDisplayAtMostPostResource1.Text" xml:space="preserve">
-    <value>items in a list, then start paging</value>
+    <value>items dans la liste, ensuite paginer</value>
     <comment>As in 'Display at most 5 items in a list, ...'</comment>
   </data>
   <data name="lblDisplayAtMostPreResource1.Text" xml:space="preserve">
-    <value>Display at most</value>
+    <value>Afficher au plus</value>
     <comment>As in 'Display at most: 5 items'</comment>
   </data>
   <data name="rvListSizeResource1.ErrorMessage" xml:space="preserve">
-    <value>Number must be between 10 and 1000</value>
+    <value>Le nombre doit être entre 10 et 1000</value>
   </data>
   <data name="rvListSizeResource1.Text" xml:space="preserve">
     <value />

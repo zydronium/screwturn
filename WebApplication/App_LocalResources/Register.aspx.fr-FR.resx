@@ -214,7 +214,7 @@
     <value />
   </data>
   <data name="rfvEmail1Resource1.ErrorMessage" xml:space="preserve">
-    <value>Email is required</value>
+    <value>L'adresse courriel est requise</value>
   </data>
   <data name="rfvEmail1Resource1.Text" xml:space="preserve">
     <value />

@@ -289,7 +289,7 @@
     <value />
   </data>
   <data name="rfvOldPasswordResource1.ErrorMessage" xml:space="preserve">
-    <value>Old Password is required</value>
+    <value>Ancien mot de passe requis</value>
   </data>
   <data name="rfvOldPasswordResource1.Text" xml:space="preserve">
     <value />

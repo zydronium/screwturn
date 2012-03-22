@@ -178,7 +178,7 @@
     <value>Utiliser ce gabarit</value>
   </data>
   <data name="btnPublicResource1.Text" xml:space="preserve">
-    <value>Public</value>
+    <value>Publique</value>
   </data>
   <data name="btnPublicResource1.ToolTip" xml:space="preserve">
     <value>Utiliser ce gabarit</value>
@@ -199,10 +199,10 @@
     <value>Sélectionner</value>
   </data>
   <data name="btnSelectResource1.ToolTip" xml:space="preserve">
-    <value>Select this Namespace for editing</value>
+    <value>Sélectionner cet espace de nom pour l'éditer </value>
   </data>
   <data name="btnSelectResource2.Text" xml:space="preserve">
-    <value>Select</value>
+    <value>Sélectionnez</value>
   </data>
   <data name="btnSelectResource2.ToolTip" xml:space="preserve">
     <value>Sélectionner cet espace de nom pour édition</value>

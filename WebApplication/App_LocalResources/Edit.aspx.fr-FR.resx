@@ -286,7 +286,7 @@
     <value>Meta Description</value>
   </data>
   <data name="lblDraftInfo2Resource1.Text" xml:space="preserve">
-    <value>si vous croyez que le contenu est prêt à être affiché, simplement décocher la case à cocher "Sauvegarder comme brouillon" près du bouton "Sauvegarder". Note: Il n'y a pas de versions pour les brouillons.</value>
+    <value>Si vous croyez que le contenu est prêt à être affiché, simplement décocher la case à cocher "Sauvegarder comme brouillon" près du bouton "Sauvegarder". Note: Il n'y a pas de versions pour les brouillons.</value>
   </data>
   <data name="lblDraftInfoResource1.Text" xml:space="preserve">
     <value>Vous êtes en train d'éditer un &lt;b&gt;brouillon&lt;/b&gt; de cette page, éditée par&lt;b&gt;##USER##&lt;/b&gt; le &lt;b&gt;##DATETIME##&lt;/b&gt; (##VIEWCHANGES##).</value>

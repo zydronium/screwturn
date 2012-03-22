@@ -118,100 +118,100 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AnchorTitle2" xml:space="preserve">
-    <value>Insert a new anchor or a link to an existing anchor</value>
+    <value>Insérer un nouveau point d'ancrage ou un lien vers une ancre existante</value>
   </data>
   <data name="BoldTitle" xml:space="preserve">
-    <value>Style selected text as bold</value>
+    <value>Style de texte sélectionné en gras</value>
   </data>
   <data name="CodeEscapedTitle" xml:space="preserve">
-    <value>Set selected text as a block of code</value>
+    <value>Définir le texte sélectionné comme un bloc de code</value>
   </data>
   <data name="CodeInlineTitle" xml:space="preserve">
-    <value>Set selected text as inline code</value>
+    <value>Définir le texte sélectionné comme code en ligne</value>
   </data>
   <data name="CommentTitle" xml:space="preserve">
-    <value>Set selected text as comment (hidden from the rendered page output)</value>
+    <value>Définir le texte sélectionné en tant que commentaire (caché)</value>
   </data>
   <data name="EscapeTitle" xml:space="preserve">
-    <value>Wrap selected text in an 'escape' block that escapes all wiki- and HTML-related characters</value>
+    <value>Envelopper le texte sélectionné dans un bloc qui échappe à tous les catactères wiki et HTML </value>
   </data>
   <data name="ExternalLinkTitle" xml:space="preserve">
-    <value>Insert a link to a website or email address</value>
+    <value>Insérer un lien vers un site web ou une adresse e-mail</value>
   </data>
   <data name="FileLinkTitle" xml:space="preserve">
-    <value>Insert a link to a file or attachment</value>
+    <value>Insérer un lien vers un fichier ou une pièce jointe</value>
   </data>
   <data name="H1Title" xml:space="preserve">
-    <value>Set selected text as level-1 header</value>
+    <value>Définir le texte sélectionné comme en-tête de niveau-1</value>
   </data>
   <data name="H2Title" xml:space="preserve">
-    <value>Set selected text as level-2 header</value>
+    <value>Définir le texte sélectionné comme en-tête de niveau-2</value>
   </data>
   <data name="H3Title" xml:space="preserve">
-    <value>Set selected text as level-3 header</value>
+    <value>Définir le texte sélectionné comme en-tête de niveau-3</value>
   </data>
   <data name="H4Title" xml:space="preserve">
-    <value>Set selected text as level-4 header</value>
+    <value>Définir le texte sélectionné comme en-tête de niveau-4</value>
   </data>
   <data name="HRTitle" xml:space="preserve">
-    <value>Insert a horizontal ruler (separator)</value>
+    <value>Insérer une ligne horizontale (séparateur)</value>
   </data>
   <data name="ImageTitle2" xml:space="preserve">
-    <value>Insert a picture in the page</value>
+    <value>Insérer une image</value>
   </data>
   <data name="ItalicTitle" xml:space="preserve">
-    <value>Style selected text as italic</value>
+    <value>Style de texte sélectionné en italique</value>
   </data>
   <data name="LineBreakTitle" xml:space="preserve">
-    <value>Insert a single line break</value>
+    <value>Insérer un saut de ligne unique</value>
   </data>
   <data name="NoBrTitle" xml:space="preserve">
-    <value>Wrap selected text in a 'nobr' block, that ignores line breaks</value>
+    <value>Envelopper le texte sélectionné dans un bloc qui échappe à tous les sauts de lignes</value>
   </data>
   <data name="NoWikiTitle" xml:space="preserve">
-    <value>Wrap selected text in a 'nowiki' block, that ignores WikiMarkup</value>
+    <value>Envelopper le texte sélectionné dans un bloc qui échappe à tous les catactères wiki</value>
   </data>
   <data name="OrderedListTitle" xml:space="preserve">
-    <value>Insert an ordered list or wrap selected text in an ordered list (1, 2, 3, ...)</value>
+    <value>Insérer une liste ordonnée ou enveloppez le texte sélectionné dans une liste ordonnée (1, 2, 3, ...)</value>
   </data>
   <data name="PageLinkTitle" xml:space="preserve">
-    <value>Insert a link to a wiki page</value>
+    <value>Insérer un lien vers une page wiki</value>
   </data>
   <data name="SnippetsTitle" xml:space="preserve">
-    <value>View existing snippets and insert one in the page</value>
+    <value>Voir des snippets existants et en insérer un dans la page</value>
   </data>
   <data name="SpecialTagsTitle" xml:space="preserve">
-    <value>View special tags and insert one in the page</value>
+    <value>Voir les tags spéciaux et en insérer un dans la page</value>
   </data>
   <data name="StrikedTitle" xml:space="preserve">
-    <value>Style selected text as strike-through</value>
+    <value>Style de texte sélectionné en tant que barré</value>
   </data>
   <data name="SubscriptTitle" xml:space="preserve">
-    <value>Set selected text as subscript</value>
+    <value>Définir le texte sélectionné en indice</value>
   </data>
   <data name="SuperscriptTitle" xml:space="preserve">
-    <value>Set selected text as superscript</value>
+    <value>Définir le texte sélectionné en exposant</value>
   </data>
   <data name="SymbolsTitle" xml:space="preserve">
-    <value>View and insert special symbols</value>
+    <value>Voir et insérer des symboles spéciaux</value>
   </data>
   <data name="UnderlinedTitle" xml:space="preserve">
-    <value>Underline selected text</value>
+    <value>Souligner le texte sélectionné</value>
   </data>
   <data name="UnorderedListTitle" xml:space="preserve">
-    <value>Insert an unordered list or wrap selected text in an unordered list (bullet points)</value>
+    <value>Insérer une liste non ordonnée ou envelopper le texte sélectionné dans une liste non ordonnée (liste à puces)</value>
   </data>
   <data name="WrapperBoxTitle" xml:space="preserve">
-    <value>Wrap selected text in a 'box'</value>
+    <value>Envelopper le texte sélectionné dans une «boîte»</value>
   </data>
   <data name="ChangeComment" xml:space="preserve">
-    <value>Change Comment</value>
+    <value>Changer le commentaire</value>
   </data>
   <data name="MetaDescription" xml:space="preserve">
     <value>Meta Description</value>
   </data>
   <data name="MetaKeywords" xml:space="preserve">
-    <value>Meta Keywords</value>
+    <value>Meta mots clés</value>
   </data>
   <data name="AutoUpdateAvailable" xml:space="preserve">
     <value>Mise à jour automatique disponible</value>
@@ -278,10 +278,10 @@
     <value>Impossible de migrer la page</value>
   </data>
   <data name="DiscussionsRss" xml:space="preserve">
-    <value>Discussions RSS</value>
+    <value>RSS des discussions </value>
   </data>
   <data name="RssForThisCategoryDiscussion" xml:space="preserve">
-    <value>Update notifications for this Category's Discussions (RSS 2.0)</value>
+    <value>Notifications de mises-à-jour pour les discussions de cette catégorie (RSS 2.0)</value>
   </data>
   <data name="CodeEscaped" xml:space="preserve">
     <value>Bloc de code échappé</value>
@@ -515,7 +515,7 @@
     <value>Voir les modifications</value>
   </data>
   <data name="DiffingPageTitle" xml:space="preserve">
-    <value>Diffing &lt;i&gt;##PAGETITLE##&lt;/i&gt;, at revisions &lt;i&gt;##REV1##&lt;/i&gt; and &lt;i&gt;##REV2##&lt;/i&gt;</value>
+    <value>Comparaison de &lt;i&gt;##PAGETITLE##&lt;/i&gt;, aux révisions &lt;i&gt;##REV1##&lt;/i&gt; et &lt;i&gt;##REV2##&lt;/i&gt;</value>
   </data>
   <data name="CouldNotCreateSnippet" xml:space="preserve">
     <value>Impossible de créer le snippet</value>
@@ -905,7 +905,7 @@
     <value>Fichier d'entête de page</value>
   </data>
   <data name="RedirectedFrom" xml:space="preserve">
-    <value>Redirected from</value>
+    <value>Redirigé de</value>
   </data>
   <data name="ThisPageRedirectsTo" xml:space="preserve">
     <value>Cette page redirige vers</value>
