@@ -163,7 +163,7 @@
     <value>Désactivé (Flux RSS complètement désactivés)</value>
   </data>
   <data name="ListItemResource44.Value" xml:space="preserve">
-    <value>Désactivé</value>
+    <value>Disabled</value>
   </data>
   <data name="lstFileDownloadCountFilterModeResource1.ToolTip" xml:space="preserve">
     <value />
@@ -172,7 +172,7 @@
     <value>Compter tous les fichiers téléchargés</value>
   </data>
   <data name="ListItemResource39.Value" xml:space="preserve">
-    <value>Compter tout</value>
+    <value>CountAll</value>
   </data>
   <data name="ListItemResource40.Text" xml:space="preserve">
     <value>Compter les téléchargements pour des extensions spécifiques (séparer par des virgules)</value>
