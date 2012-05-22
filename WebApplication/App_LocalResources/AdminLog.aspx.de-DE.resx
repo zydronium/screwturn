@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnNoLimitResource1.Text" xml:space="preserve">
-    <value>Display all</value>
+    <value>Alle anzeigen</value>
   </data>
   <data name="btnNoLimitResource1.ToolTip" xml:space="preserve">
-    <value>Display all log entries (might take a few seconds)</value>
+    <value>Alle Log-Einträge anzeigen (kann einige Sekunden dauern)</value>
   </data>
   <data name="lblLimitResource1.Text" xml:space="preserve">
-    <value>Currently displaying only 100 log entries &amp;mdash;</value>
+    <value>Zeige aktuell nur 100 Log-Einträge an &amp;mdash;</value>
   </data>
   <data name="btnClearLogResource1.Text" xml:space="preserve">
     <value>Protokoll leeren</value>
@@ -156,7 +156,7 @@
     <value />
   </data>
   <data name="lblDateTimeResource1.Text" xml:space="preserve">
-    <value>Darum/Zeit</value>
+    <value>Datum/Zeit</value>
     <comment>Date/Time</comment>
   </data>
   <data name="lblFilterResource1.Text" xml:space="preserve">

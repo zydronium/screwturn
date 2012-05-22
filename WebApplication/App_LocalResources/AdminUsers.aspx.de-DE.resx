@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="revEmailResource1.ErrorMessage" xml:space="preserve">
-    <value>Invalid Email</value>
+    <value>Ungültige E-Mail-Adresse</value>
   </data>
   <data name="revEmailResource1.Text" xml:space="preserve">
     <value />
@@ -135,7 +135,7 @@
     <comment>Delete old inactive accounts now</comment>
   </data>
   <data name="lblBulkDeleteResource1.Text" xml:space="preserve">
-    <value>Alle &lt;b&gt;deaktivierten&lt;/b&gt; Benutzerkonten die älter sind als &lt;b&gt;1 Monat&lt;/b&gt; löschen.&lt;br /&gt;Es wird empfohlen, vor dem Ausführen dieses Befehls die Daten zu sichern.</value>
+    <value>Alle &lt;b&gt;deaktivierten&lt;/b&gt; Benutzerkonten, die älter sind als &lt;b&gt;1 Monat&lt;/b&gt;, löschen.&lt;br /&gt;Es wird empfohlen, vor dem Ausführen dieses Befehls die Daten zu sichern.</value>
     <comment>Delete all &lt;b&gt;inactive&lt;/b&gt; accounts older than &lt;b&gt;1 month&lt;/b&gt;.&lt;br /&gt;Please backup your data before proceeding.</comment>
   </data>
   <data name="lblBulkDeleteTitleResource1.Text" xml:space="preserve">
@@ -216,7 +216,7 @@
     <comment>Active</comment>
   </data>
   <data name="chkSetActiveResource1.ToolTip" xml:space="preserve">
-    <value>Aktivieren erlaubt dem Benutzer sich anzumelden.</value>
+    <value>Aktivieren erlaubt dem Benutzer, sich anzumelden.</value>
     <comment>If checked, allows the user to login</comment>
   </data>
   <data name="cvPassword2Resource1.ErrorMessage" xml:space="preserve">
@@ -288,7 +288,7 @@
     <comment>Password (repeat)</comment>
   </data>
   <data name="lblPasswordInfoResource1.Text" xml:space="preserve">
-    <value>Beide Passwort-Felder leer lassen, um das aktuelle Passwort beizubehlaten.</value>
+    <value>Beide Passwort-Felder leer lassen, um das aktuelle Passwort beizubehalten.</value>
     <comment>Leave Password fields blank to keep the current password.</comment>
   </data>
   <data name="lblPasswordInfoResource1.ToolTip" xml:space="preserve">

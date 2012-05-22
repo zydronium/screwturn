@@ -229,11 +229,11 @@
     <value>Der Name der Kategorie ist ungültig</value>
   </data>
   <data name="cvNewNameResource1.ErrorMessage" xml:space="preserve">
-    <value>Invalid Category Name</value>
+    <value>Ungültiger Kategoriename</value>
     <comment>Invalid Category Name</comment>
   </data>
   <data name="cvNewNameResource1.Text" xml:space="preserve">
-    <value>Ungültiger Kategoriename!</value>
+    <value>Ungültiger Kategoriename</value>
   </data>
   <data name="cvNewNameResource1.ToolTip" xml:space="preserve">
     <value>Der Name der Kategorie ist ungültig</value>

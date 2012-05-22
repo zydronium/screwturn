@@ -185,7 +185,7 @@
     <comment>Permissions</comment>
   </data>
   <data name="btnPermsResource2.ToolTip" xml:space="preserve">
-    <value>Berechtigungen für diesen Namensraum bearbeiten</value>
+    <value>Berechtigungen für diesen Namensraum verwalten</value>
     <comment>Manage permissions for this Namespace</comment>
   </data>
   <data name="btnPrivateResource1.Text" xml:space="preserve">
@@ -280,7 +280,7 @@
     <comment>Categories</comment>
   </data>
   <data name="lblConfirmDeletionResource1.Text" xml:space="preserve">
-    <value>Sind sie sicher, dass sie diesen Namensraum löschen wollen? Alle enthaltenen Daten werden ebenfalls gelöscht!</value>
+    <value>Sind Sie sicher, dass sie diesen Namensraum löschen wollen? Alle enthaltenen Daten werden ebenfalls gelöscht!</value>
     <comment>Are you sure you want to premanently delete the selected Namespace? Doing so, all the data contained in it will be lost.</comment>
   </data>
   <data name="lblDefaultPageInfoResource1.Text" xml:space="preserve">

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnManualNameResource1.Text" xml:space="preserve">
-    <value>Seitenname selber bestimmen...</value>
+    <value>Seitenname manuell bestimmen...</value>
     <comment>Specify page name manually...</comment>
   </data>
   <data name="btnManualNameResource1.ToolTip" xml:space="preserve">
@@ -135,14 +135,14 @@
     <value />
   </data>
   <data name="txtCommentResource2.ToolTip" xml:space="preserve">
-    <value>Kommentar zu diser Änderung hier eingeben (optional)</value>
+    <value>Kommentar zu dieser Änderung hier eingeben (optional)</value>
     <comment>Type a comment for this change here (optional)</comment>
   </data>
   <data name="txtDescriptionResource2.Text" xml:space="preserve">
     <value />
   </data>
   <data name="txtDescriptionResource2.ToolTip" xml:space="preserve">
-    <value>Beschreibung zu diser Seite hier eingeben (optional)</value>
+    <value>Beschreibung zu dieser Seite hier eingeben (optional)</value>
     <comment>Type the description for this page here (optional)</comment>
   </data>
   <data name="txtKeywordsResource2.Text" xml:space="preserve">
@@ -317,7 +317,7 @@
     <comment>Meta Description</comment>
   </data>
   <data name="lblDraftInfo2Resource1.Text" xml:space="preserve">
-    <value>Wenn die Seite bereit ist zur Herausgabe, einfach die Kontrollbox 'Als Entwurf speichern' neben dem 'Speichern' Knopf abwählen. &lt;br / &gt;Hinweis: Entwürfe werden nicht versioniert.</value>
+    <value>Wenn die Seite bereit ist zur Herausgabe, einfach die Kontrollbox 'Als Entwurf speichern' neben dem 'Speichern'-Knopf abwählen. &lt;br / &gt;Hinweis: Entwürfe werden nicht versioniert.</value>
     <comment>If you think this content is ready for display, simply unckeck the 'Save as Draft' checkbox near the 'Save' button. Note: drafts are not versioned.</comment>
   </data>
   <data name="lblDraftInfoResource1.Text" xml:space="preserve">

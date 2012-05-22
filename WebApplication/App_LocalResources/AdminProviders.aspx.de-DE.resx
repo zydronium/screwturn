@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblMigrationInfoResource2.Text" xml:space="preserve">
-    <value>&lt;b&gt;Note 1&lt;/b&gt;: always perform a full backup of all your data before performing a migration.&lt;br /&gt;&lt;b&gt;Note 2&lt;/b&gt;: migrations usually take several minutes to complete: during this time, do not perform any other activity in the wiki, and do not close this page.&lt;br /&gt;&lt;b&gt;Note 3&lt;/b&gt;: the destination provider should be completely empty: if it contains any data, it might cause consistency issues. Refer to the target provider's documentation for details.&lt;br /&gt;&lt;b&gt;Timeouts&lt;/b&gt;: it is strongly suggested that you increase the executionTimeout parameter in web.config before migrating data.</value>
+    <value>&lt;b&gt;Hinweis 1&lt;/b&gt;: Legen Sie ein Backup aller Daten an, bevor Sie die Migration durchführen&lt;br /&gt;&lt;b&gt;Hinweis 2&lt;/b&gt;: Die Migration benötigt normalerweise mehrere Minuten. Bitte führen Sie während dieser Zeit keine Arbeiten im Wiki durch und schließen Sie diese Seite nicht.&lt;br /&gt;&lt;b&gt;Hinweis 3&lt;/b&gt;: Der Ziel-Provider sollte komplett leer sein; Sollten dort bereits Daten vorhanden sein, kann es zu Inkonsistenzen kommen. Ziehen Sie hierfür die Dokumentation des Ziel-Providers zu Rate.&lt;br /&gt;&lt;b&gt;Timeouts&lt;/b&gt;: Es wird dringend empfohlen, vor der Daten-Migration den Wert des Parameters executionTimeout in der web.config zu erhöhen.</value>
   </data>
   <data name="btnAutoUpdateProvidersResource1.Text" xml:space="preserve">
     <value>Autom. Provideraktualisierung</value>
@@ -129,7 +129,7 @@
     <comment>Automatically update all installed providers, of all types</comment>
   </data>
   <data name="lblCannotDisableResource1.Text" xml:space="preserve">
-    <value>Der Provider kann nicht deaktiviert werden, da es sich um den Standard Provider handelt.&lt;br /&gt;Im Falle des Seiten-Providers, ist dieser für die Hauptseite des root-Namensraum verantwortlich.</value>
+    <value>Der Provider kann nicht deaktiviert werden, da es sich um den Standard-Provider handelt.&lt;br /&gt;Im Falle des Seiten-Providers, ist dieser für die Hauptseite des root-Namensraum verantwortlich.</value>
     <comment>Cannot disable the provider because it is the default provider or,&lt;br /&gt;in case of a Pages Provider, it manages the default page of the root namespace</comment>
   </data>
   <data name="lblCannotDisableResource1.ToolTip" xml:space="preserve">
@@ -232,7 +232,7 @@
     <comment>Unload</comment>
   </data>
   <data name="btnUnloadResource1.ToolTip" xml:space="preserve">
-    <value>Entladed den Provider aus dem Speicher</value>
+    <value>Entlädt den Provider aus dem Speicher</value>
     <comment>Unloads the Provider</comment>
   </data>
   <data name="btnUploadResource1.Text" xml:space="preserve">
@@ -329,7 +329,7 @@
     <value />
   </data>
   <data name="lblMigrateUsersInfoResource1.Text" xml:space="preserve">
-    <value>&lt;b&gt;Hinweis&lt;/b&gt;: migrieren der Benutzerkonten wird deren Passwörter zurücksetzen (alle betroffenen Benutzer werden via E-Mail benachrichtigt).</value>
+    <value>&lt;b&gt;Hinweis&lt;/b&gt;: Migration der Benutzerkonten wird deren Passwörter zurücksetzen (alle betroffenen Benutzer werden via E-Mail benachrichtigt).</value>
     <comment>&lt;b&gt;Note&lt;/b&gt;: migrating user accounts will reset all their passwords (an email notice will be sent to all users).</comment>
   </data>
   <data name="lblMigrateUsersResource1.Text" xml:space="preserve">
@@ -375,7 +375,7 @@
     <value />
   </data>
   <data name="lblUploadInfoResource1.Text" xml:space="preserve">
-    <value>&lt;b&gt;Hinweis&lt;/b&gt;: entfernen einer DLL wird den enthaltenen Provider nicht deaktivieren bis die Web-Applikation neu gestartet wird.&lt;br /&gt; Aber hochladen einer neuen DLLwird den enthaltenen Provider automatisch laden.</value>
+    <value>&lt;b&gt;Hinweis&lt;/b&gt;: Entfernen einer DLL wird den enthaltenen Provider nicht deaktivieren, bis die Web-Applikation neu gestartet wird.&lt;br /&gt; Aber hochladen einer neuen DLL wird den enthaltenen Provider automatisch laden.</value>
     <comment>&lt;b&gt;Note&lt;/b&gt;: removing a DLL won't disable the Providers it contains until the next wiki restart,&lt;br /&gt;but uploading a new DLL will automatically load the Providers it contains.</comment>
   </data>
   <data name="lblUploadNewDllResource1.Text" xml:space="preserve">
@@ -383,7 +383,7 @@
     <comment>Upload new DLL</comment>
   </data>
   <data name="lblUploadProvidersTitleResource1.Text" xml:space="preserve">
-    <value>Provider DLL management</value>
+    <value>Provider DLL Verwaltung</value>
     <comment>Providers DLLs Management</comment>
   </data>
   <data name="lblUploadResultResource1.Text" xml:space="preserve">
@@ -481,12 +481,12 @@
     <value />
   </data>
   <data name="btnExportResource1" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportieren</value>
   </data>
   <data name="lblExportDescriptionResource1" xml:space="preserve">
-    <value>Export all data. (Experimental)</value>
+    <value>Alle Daten exportieren (experimentell)</value>
   </data>
   <data name="lblExportResource1" xml:space="preserve">
-    <value>Export All Data</value>
+    <value>Alle Daten exportieren</value>
   </data>
 </root>

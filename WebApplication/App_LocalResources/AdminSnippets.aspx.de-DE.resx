@@ -159,7 +159,7 @@
     <value />
   </data>
   <data name="btnSaveResource1.Text" xml:space="preserve">
-    <value>Elemt speichern</value>
+    <value>Element speichern</value>
     <comment>Save Item</comment>
   </data>
   <data name="btnSaveResource1.ToolTip" xml:space="preserve">

@@ -161,7 +161,7 @@
     <comment>New Nav. Path</comment>
   </data>
   <data name="btnNewNavPathResource1.ToolTip" xml:space="preserve">
-    <value>neuer Navigationspfad erstellen</value>
+    <value>Neuen Navigationspfad erstellen</value>
     <comment>Create a new Navigation Path</comment>
   </data>
   <data name="btnRemoveResource1.Text" xml:space="preserve">

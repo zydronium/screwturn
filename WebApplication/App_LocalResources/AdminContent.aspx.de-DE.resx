@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCopyFromResource1.Text" xml:space="preserve">
-    <value>Go</value>
+    <value>Los</value>
     <comment>Go</comment>
   </data>
   <data name="btnCopyFromResource1.ToolTip" xml:space="preserve">
-    <value>Inhalt vom selben Layout-Bereich des selektierten Namensraum koppieren</value>
+    <value>Inhalt vom selben Layout-Bereich des selektierten Namensraum kopieren</value>
     <comment>Copy the content of the same layout area from the selected Namespace</comment>
   </data>
   <data name="lblCopyFromResource1.Text" xml:space="preserve">
-    <value>Inhalt koppieren von:</value>
+    <value>Inhalt kopieren von:</value>
     <comment>Copy content from:</comment>
   </data>
   <data name="btnAccessDeniedNoticeResource1.Text" xml:space="preserve">
-    <value>Zugriff Verweigert (Global)</value>
+    <value>Zugriff verweigert (Global)</value>
     <comment>Access Denied Notice (Global)</comment>
   </data>
   <data name="btnAccessDeniedNoticeResource1.ToolTip" xml:space="preserve">
@@ -138,7 +138,7 @@
     <comment>Edit</comment>
   </data>
   <data name="btnAccountActivationMessageResource1.Text" xml:space="preserve">
-    <value>Konto aktivierungs Mitteilung (Global)</value>
+    <value>Konto-Aktivierungs Mitteilung (Global)</value>
     <comment>Account Activation Message (Global)</comment>
   </data>
   <data name="btnAccountActivationMessageResource1.ToolTip" xml:space="preserve">
@@ -170,7 +170,7 @@
     <comment>Edit</comment>
   </data>
   <data name="btnEditingPageNoticeResource1.Text" xml:space="preserve">
-    <value>Seitenbearbeitungsmitteilung (Namensraum speziefisch)</value>
+    <value>Seitenbearbeitungsmitteilung (Namensraum spezifisch)</value>
     <comment>Editing Page Notice (Namespace-specific)</comment>
   </data>
   <data name="btnEditingPageNoticeResource1.ToolTip" xml:space="preserve">
@@ -182,7 +182,7 @@
     <comment>Footer ??</comment>
   </data>
   <data name="btnFooterResource1.ToolTip" xml:space="preserve">
-    <value>Globaler Seitenfuss bearbeiten</value>
+    <value>Globalen Seitenfuss bearbeiten</value>
     <comment>Edit the global footer</comment>
   </data>
   <data name="btnHeaderResource1.Text" xml:space="preserve">
@@ -190,7 +190,7 @@
     <comment>Header ??</comment>
   </data>
   <data name="btnHeaderResource1.ToolTip" xml:space="preserve">
-    <value>Globaler Seitenkopf bearbeiten</value>
+    <value>Globalen Seitenkopf bearbeiten</value>
     <comment>Edit the global header</comment>
   </data>
   <data name="btnHtmlHeadResource1.Text" xml:space="preserve">
@@ -254,7 +254,7 @@
     <comment>Save</comment>
   </data>
   <data name="btnSaveResource1.ToolTip" xml:space="preserve">
-    <value>Inhalt Speichern</value>
+    <value>Inhalt speichern</value>
     <comment>Save the content</comment>
   </data>
   <data name="btnSidebarResource1.Text" xml:space="preserve">
@@ -262,19 +262,19 @@
     <comment>Sidebar</comment>
   </data>
   <data name="btnSidebarResource1.ToolTip" xml:space="preserve">
-    <value>Seitenleiste bearbeiten (menu)</value>
+    <value>Seitenleiste bearbeiten (Menü)</value>
     <comment>Edit the sidebar (menu)</comment>
   </data>
   <data name="lblAccessDeniedNoticeInfoResource1.Text" xml:space="preserve">
-    <value>Mitteilung die anstelle der Information oben auf der 'Zugriff verweigert'- Seite angezeigt wird (nur wenn nicht leer).</value>
+    <value>Mitteilung, die anstelle der Information oben auf der 'Zugriff verweigert'- Seite angezeigt wird (nur wenn nicht leer).</value>
     <comment>The message replacing the information at the top of the access denied page (if not empty).</comment>
   </data>
   <data name="lblAccountActivationMessageInfoResource1.Text" xml:space="preserve">
-    <value>E-Mail-Mitteilung die an einen frisch registrierten Benutzer gesendet wird, welcher sein Konto noch aktivieren muss.</value>
+    <value>E-Mail-Mitteilung, die an einen frisch registrierten Benutzer gesendet wird, welcher sein Konto noch aktivieren muss.</value>
     <comment>The email message sent to a newly registered user that have to activate her account.</comment>
   </data>
   <data name="lblApproveDraftMessageInfoResource1.Text" xml:space="preserve">
-    <value>E-Mail-Mitteilung die an den Editor/Administrator gesendet wird, wenn ein Seitenentwurf bestätigt werden muss.</value>
+    <value>E-Mail-Mitteilung, die an den Editor/Administrator gesendet wird, wenn ein Seitenentwurf bestätigt werden muss.</value>
     <comment>The email message sent to editor/administrators when a page draft requires approval.</comment>
   </data>
   <data name="lblContentResource1.Text" xml:space="preserve">
@@ -282,7 +282,7 @@
     <comment>Content Editing</comment>
   </data>
   <data name="lblDiscussionChangeMessageInfoResource1.Text" xml:space="preserve">
-    <value>E-Mail-Mitteilung die an die Benutzer gesendet wird, wenn eine neue Mitteilung zu einer Diskussion hinzugefügt wurde.</value>
+    <value>E-Mail-Mitteilung, die an die Benutzer gesendet wird, wenn eine neue Mitteilung zu einer Diskussion hinzugefügt wurde.</value>
     <comment>The email message sent to users when a new message is poste to a discussion.</comment>
   </data>
   <data name="lblEditingPageNoticeInfoResource1.Text" xml:space="preserve">
